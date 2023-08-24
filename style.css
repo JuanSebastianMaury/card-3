@@ -57,12 +57,12 @@ body {
     border-radius: 100px;
     background: linear-gradient(360deg, rgba(52, 46, 222) 40%, rgb(76, 41, 232) 80%);
 }
-.card__primary {
+.card__text__primary {
     color: white;
     font-size: 60px;
     font-weight: bold; 
 }
-.card__secondary {
+.card__text__secondary {
     color: #8f7fd5 ;
     font-size: 15px;
 }
@@ -85,13 +85,13 @@ body {
     text-align: center;
     padding-right: 30px;
 }
-.title__sumary {
+.card__right__title {
     color: #232a46;
     margin-top: 20px;
     margin-bottom: 15px;
     margin-right: 160px;
 }
-.results__righ {
+.righ__results {
     width: 240px;
     height: 50px;
     margin-top: 8px;
@@ -130,11 +130,11 @@ border: solid 1px #313b65;
 font-size: 13px;
 font-weight: bold;
 }
-.card__image {
+.righ__results__image {
     margin-left: 10px;
 
 }
-.description__right {
+.right__description {
     margin-right: 55px;
     font-size: 15px;
     font-weight: bold;
@@ -143,19 +143,19 @@ font-weight: bold;
     display: flex;
     margin-right: 10px;
 }
-.information__total {
+.right__information__total {
     font-size: 15px;
     font-weight: bold;
     color: #6b6969;
 }
-.information__porcent {
+.right__information__porcent {
     font-size: 15px;
     font-weight: normal;
     margin-right: 5px;
     margin-left: 5px;
     color: #6b6969;
 }
-.information__top {
+.right__information__top {
     font-size: 15px;
     font-weight: normal;
     color: #6b6969;
